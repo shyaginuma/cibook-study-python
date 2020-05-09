@@ -2,7 +2,7 @@
 
 効果検証入門の学習のため、テキストに乗っている図や分析結果をPythonで実装していったコード群です。  
 `notebook/`以下に章別に.ipynbファイルをまとめています。  
-実装していく際に、nekoumeiさんのpythonでの実装を何度も参考にさせて頂きました。この場を借りてお礼申し上げます。
+実装していく際に、nekoumeiさんの[pythonでの実装](https://github.com/nekoumei/cibook-python)を何度も参考にさせて頂きました。この場を借りてお礼申し上げます。
 
 ## How to use
 
